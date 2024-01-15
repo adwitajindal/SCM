@@ -1,0 +1,7 @@
+
+hello
+how are you 
+this is SCM class.
+
+So today is second class of SCM
+
